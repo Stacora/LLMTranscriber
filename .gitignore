@@ -1,0 +1,11 @@
+.env
+.venv
+
+## Pastas Enteras
+Audios
+
+## Notebooks, only the rusty one
+Notebooks/01_TestHuggingFaceConnection.ipynb
+
+## Auxiliar scripts
+transcribe_openai.py
