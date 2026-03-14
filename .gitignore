@@ -6,7 +6,7 @@ Audios
 
 ## Notebooks, only the rusty one
 Notebooks/01_TestHuggingFaceConnection.ipynb
-
+Notebooks/*.txt
 ## Auxiliar scripts
 transcribe_openai.py
 
